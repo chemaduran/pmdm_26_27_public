@@ -1,0 +1,7 @@
+<resources>
+    <!--
+        Tema XML mínimo: solo se usa mientras arranca la Activity.
+        Los colores y estilos reales de la app los define Compose (ui/theme/Theme.kt).
+    -->
+    <style name="Theme.App" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
